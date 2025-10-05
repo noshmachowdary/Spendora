@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Food",
+    "amount": 600,
+    "spent": 0,
+    "period": "monthly",
+    "startDate": "2025-10-05",
+    "endDate": "2025-11-05",
+    "categoryId": "1",
+    "categoryName": "Food & Dining",
+    "isActive": true,
+    "id": "1759635049973",
+    "createdAt": "2025-10-05T03:30:49.973Z",
+    "userId": "default-user"
+  },
+  {
+    "name": "pocket",
+    "amount": 3000,
+    "spent": 550,
+    "period": "monthly",
+    "startDate": "2025-09-15",
+    "endDate": "2025-10-15",
+    "isActive": true,
+    "id": "1757908150292",
+    "createdAt": "2025-09-15T03:49:10.292Z",
+    "userId": "default-user"
+  }
+]
